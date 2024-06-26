@@ -5,6 +5,9 @@
   <a href="https://www.npmjs.com/package/kana-kara">
     <img src="https://img.shields.io/npm/v/jlpt.svg" alt="NPM package" />
   </a>
+    <a href="https://www.npmjs.com/package/kana-kara">
+    <img src="https://img.shields.io/npm/dy/kana-kara" alt="JLPT downloads" />
+  </a>
 </div>
 
 ### About
