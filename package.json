@@ -1,0 +1,13 @@
+{
+  "name": "kana-kara",
+  "version": "1.0.3",
+  "description": "All Kana (Hiragana + Katakana) characters in a simple library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": "japan,japanese,jlpt,kanji,kana,hiragana,katakana",
+  "author": "",
+  "license": "ISC"
+}
