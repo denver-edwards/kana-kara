@@ -24,19 +24,7 @@ All Kana (Hiragana + Katakana) characters in a simple library
 npm install kana-kara
 ```
 
-##### CommonJS
-
-```javascript
-const kanji = require("kana-kara");
-```
-
-##### ES6
-
-```javascript
-import Kanji from "kana-kara";
-```
-
-### Quick Reference
+### ES6 Quick Reference
 
 ```javascript
 // Returns all hiragana
